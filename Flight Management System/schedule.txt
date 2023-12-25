@@ -1,0 +1,50 @@
+1         Karachi   N  Dubai S  9 8 5 2023    10 8 5 2023
+2         Karachi   N  Istanbul  S  10 8 5 2023     11 8 5 2023
+3         Karachi   N  Moscow    N  11 8 5 2023  12 8 5 2023
+11        Lahore    N  Karachi   N   9 8 5 2023 10 8 5 2023
+22        Islamabad N  Lahore    N  10 8 5 2023 11 8 5 2023
+33        Peshawar  N  Karachi N  12 8 5 2023 13 8 5 2023
+7         Karachi   S  Delhi  N  13 8 5 2023 14 8 5 2023
+6         Karachi   S  Istanbul   S  14 8 5 2023 15 8 5 2023
+7         Delhi  N  London S  15 8 5 2023 16 8 5 2023
+43       Quetta   N  Moscow  S  16 8 5 2023 17 8 5 2023
+14         Lahore   N  London    N  17 8 5 2023 18 8 5 2023
+24        Islamabad   N  Dubai    N  18 8 5 2023 19 8 5 2023
+31        Peshawar   N  Istanbul  S  10 8 5 2023 11 8 5 2023
+22        Lahore    N  Peshawar    N  11 8 5 2023 12 8 5 2023
+38        Peshawar  S  Karachi   S  12 8 5 2023 13 8 5 2023
+6        Istanbul    S  Dubai  N  13 8 5 2023 14 8 5 2023
+16        Lahore    S  Islamabad N  14 8 5 2023 15 8 5 2023
+47        Quetta    S  Delhi N  15 8 5 2023 16 8 5 2023
+50        Quetta   S   Moscow   N  16 8 5 2023 17 8 5 2023
+35        Peshawar N  Moscow  S  17 8 5 2023 18 8 5 2023
+44        Quetta  N  London S  18 8 5 2023 19 8 5 2023
+21        Islamabad N  Lahore   N   9 8 52023 10 8 5 2023
+19        Lahore S  Delhi  S  1108052023 1208052023
+25        Islamabad N  Lahore   S  1208052023 1308052023
+49        Quetta S  London  N  1308052023 1408052023
+2         Istanbul S  Islamabad N  1408052023 1508052023
+27        Islamabad S  Quetta    N  1508052023 1608052023
+29        Islamabad S  Istanbul   N  1608052023 1708052023
+49        London N  Delhi  N  1708052023 1808052023
+44        London S  Delhi  S  1808052023 1908052023
+15        Lahore  N  Moscow  S  0908052023 1008052023
+45        Quetta  N  Islamabad  S  1008052023 1108052023
+34        Peshawar  N  Quetta    S  1108052023 1208052023
+1        Dubai  S  Karachi N  1208052023 1308052023
+24        Dubai  N  Karachi  S  2407052023 2607052023
+43        Moscow S  Quetta    S  2607052023 2807052023
+31        Istanbul  S  Quetta    N  2807052023 3007052023
+29        Moscow S  Islamabad  N  3007052023 0208052023
+39        Moscow  S  Quetta    N  0208052023 0408052023
+19        Delhi  S  Peshawar N  0408052023 0608052023
+50         Moscow  N  Islamabad S  0608052023 0808052023
+6        Dubai  N  Islamabad S  0808052023 1008052023
+47      Delhi N  Lahore N  1008052023 1208052023
+14        London N  Peshawar S  1208052023 1408052023
+44        Delhi S    Peshawar N  1408052023 1608052023
+15        Moscow  S  Islamabad  N  1608052023 1808052023
+28        Quetta    S  Peshawar N  1808052023 2008052023
+4         Karachi   N  Lahore S  2008052023 2208052023
+7        London  S  Karachi   N  2208052023 2408052023
+3        Moscow N  Quetta S  2408052023 2608052023

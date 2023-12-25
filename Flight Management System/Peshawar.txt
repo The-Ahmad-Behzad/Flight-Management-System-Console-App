@@ -1,0 +1,10 @@
+Islamabad 1
+Peshawar 0
+Karachi 2
+Quetta 1
+Lahore 1
+Delhi 2
+London 8
+Moscow 5
+Dubai 3
+Istanbul 5
